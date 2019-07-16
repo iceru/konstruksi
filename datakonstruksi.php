@@ -8,7 +8,6 @@ if(!isset($_SESSION['admin_email'])) {
 }
 	
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
